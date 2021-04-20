@@ -30,9 +30,8 @@
         </div> 
 
         <div>
-            <label for="chk_pass">Confirm Password:* </label>>
-            <input type="password" name="chk_pass" id="chk_pass"
-            placeholder="Confirm Password">
+            <label for="chk_pass">Confirm Password:* </label>
+            <input type="password" name="chk_pass" id="chk_pass">
         </div>
 
         <div>
@@ -43,7 +42,7 @@
         <div>
             <p>Gender Identity: </p>
         </div>
-        
+
         <div>
             <input type="radio" name="gender" id="" value="1">
             <label for="male"> Male</label>
@@ -60,7 +59,29 @@
 
         <div>
             <p>a short description about myself: </p>
-            <textarea name="about_self" id="" cols="70" rows="5"></textarea>
+            <textarea name="about_self" id="" cols="60" rows="5"></textarea>
         </div>
+        
+        <div></div>
+        
+        <div>
+            <label for="fav_language">Favorite Language: </label>
+            <select name="fav_language" id="fav_language">
+                <option value="">Javascript</option>
+                <option value="">MERN</option>
+                <option value="">Python</option>
+                <option value="">C#</option>
+            </select>
+        </div>
+
+        <div>
+            <input type="checkbox" name="check" id="check">
+            <label for="check">Yes, I would like to receive periodic updates</label>
+        </div>
+
+        <input type="submit" value="Create Account">
+
+        <p>* Indicates a required field</p>
+
 </body>
 </html>
