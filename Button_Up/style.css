@@ -1,0 +1,25 @@
+#search{
+    background-color:white;
+    color: rgb(0, 217, 255);
+    height: 30px;
+    width: 120px;
+    border-radius: 10px;
+    border-color: rgb(0, 217, 255);
+}
+#plus{
+    background-color: mediumaquamarine;
+    color: white;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+}
+#create_account{
+    background-color: dodgerblue;
+    color: white;
+    height: 40px;
+    width: 160px;
+}
+#search, #plus, #create_account{
+    margin: 20px;
+    display: block;
+}
