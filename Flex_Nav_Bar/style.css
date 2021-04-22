@@ -1,0 +1,39 @@
+.nav{
+    background-color:rgb(46, 43, 43);
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+.nav-title{
+    color: rgb(241, 236, 236);
+    margin:1%;
+}
+.nav-links{
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+    margin: 1%;
+}
+.home{
+    color: rgb(161, 161, 161);
+}
+.active{
+    color:rgb(241, 236, 236);
+}
+
+.connections{
+    color: rgb(161, 161, 161);
+}
+.btn{
+    background-color: rgb(68, 187, 235);
+    color: rgb(241, 236, 236);
+    height: 40px;
+    width: 100px;
+    font-size: medium;
+    border: 3px solid black;
+    box-shadow: 4px 4px black;
+}
