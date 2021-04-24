@@ -1,0 +1,39 @@
+
+
+.container{
+    height: 400px;
+    width: 900px;
+    display: inline-block;
+}
+.header{
+    background-color: cadetblue;
+    height: 100px;
+    width: 900px;
+}
+.user-img{
+    height: 90px;
+    width: 90px;
+}
+.name-block{
+    font-size: xx-large;
+}
+.map-marker{
+    height: 25px;
+    width: 20px;
+}
+.location{
+    font-size: x-large;
+}
+.description{
+    font-size: large;
+}
+.description2{
+    font-size: large;
+}
+.gear{
+    height: 20px;
+    width: 20px;
+}
+.profile-link{
+    font-size: large;
+}
