@@ -19,10 +19,11 @@ for(var i=2; i<=100; i++){
 console.log(sum);
 
 //Factorial//
-function factorial(n){
-    if(n> 0 && n<=1){
-        return 1;
-    }else{
-        return n * factorial(n-1)
+function factorial(){
+    var product = 1;
+    for (var n = 1; product <= 1e8; n++){
+         product = product * (n+1);
     }
-}
+    return n;
+}  
+console.log(factorial())
