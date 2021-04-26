@@ -26,4 +26,4 @@ function factorial(){
     }
     return n;
 }  
-console.log(factorial())
+console.log(factorial());
