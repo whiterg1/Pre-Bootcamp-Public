@@ -1,0 +1,28 @@
+.box{
+    background-color:bisque;
+    height: 100px;
+    width: 400px;
+    padding: 20px;
+    border: 3px solid black;
+}
+.line1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.user{
+    font-size: x-large;
+}
+#likeCounter{
+    font-size: larger;
+    height: 20px;
+    width:20px;
+}
+#likeButton{
+    height: 40px;
+    width: 70px;
+    font-size: medium;
+}
+.welcome{
+    font-size: larger;
+}
