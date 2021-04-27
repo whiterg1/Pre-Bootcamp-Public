@@ -11,6 +11,6 @@ var pizza2 = pizzaOven("hand tossed","marinara",["mozarella", "feta"], ["mushroo
 var pizza3 = pizzaOven("thin crust","alfredo",["mozarella"], ["pepperoni", "sausage", "olives", "mushrooms"]);
 var pizza4 = pizzaOven("hand tossed","traditional",["mozarella"], ["pepperoni", "ham", "pineapple"]);
 
-console.log(pizza4); //this is just an exmaple using pizza4, but it will work with any of the other defined pizza variables//
+console.log(pizza1); //this is just an exmaple using pizza4, but it will work with any of the other defined pizza variables//
 
 
