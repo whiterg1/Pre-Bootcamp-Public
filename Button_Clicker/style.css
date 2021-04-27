@@ -1,0 +1,11 @@
+*{
+    background-color: silver;
+}
+
+.container{
+    height: 600px;
+    width:600px;
+    display: inline-block;
+    text-align: center;
+    background-color: silver;
+}
