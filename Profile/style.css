@@ -1,0 +1,187 @@
+
+.column1{
+    height: 900px;
+    width: 900px;
+}
+.header{
+    height:70px;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    justify-content: space-around;
+    text-align: center;
+}
+.navbar{
+    font-size: xx-large;
+    color: white;
+    width: 100px;
+    height: 40px;
+}
+.home,.profile,.find-connection{
+    color: white;
+    width: 150px;
+    height: 50px;
+    font-size: larger;
+    position:relative;
+    top: 10px;
+    right: 80px;
+}
+.profile{
+    position: relative;
+    right: 200px;
+}
+.find-connection{
+    position: relative;
+    right: 250px;
+}
+.button{
+    width:100px;
+    height:50x;
+    margin-left: 50px;
+    background-color: cadetblue;
+    color: white;
+    font-size: large;
+}
+.main-container{
+    height:1000px;
+    width:1000px;
+    display: flex;
+}
+.user-container{
+    color: rgb(0, 0, 0);
+    height: 400px;
+    width: 500px;
+    display: inline-block;
+    margin: 60px;
+    background-color: blanchedalmond;
+}
+.user-header{
+    background-color: cadetblue;
+    height: 100px;
+    width: 500px;
+}
+.user-img{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    top: 170px;
+    margin-left:20px;
+}
+.name-block{
+    font-size: xx-large;
+    padding-top: 10px;
+}
+.map-marker{
+    height: 25px;
+    width: 20px;
+}
+.location{
+    font-size: x-large;
+}
+.description{
+    font-size: large;
+}
+.description2{
+    font-size: large;
+}
+.gear{
+    height: 20px;
+    width: 20px;
+}
+.profile-link{
+    font-size: large;
+}
+.eduction-container{
+    color: black;
+    height: 200px;
+    width: 500px;
+    display: block;
+    margin-left:  60px;
+    background-color: blanchedalmond;
+}
+.education-header{
+    background-color:rgb(48, 45, 45);
+    color: white;
+    width:500px;
+    height:50px;
+} 
+.school{
+    font-size: x-large;
+    padding-left:20px;
+}
+.date{
+    font-size: larger;
+    padding-left:20px;
+}
+.belt{
+    font-size: large;
+    padding-left:20px;
+}
+.column2{
+    height:200px;
+    width:400px;
+}
+.request-container{
+    background-color: blanchedalmond;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    width:200px;
+}
+.request-span{
+    background-color: gray;
+    border: 3px solid gray;
+    border-radius: 10px;
+    margin:5px;
+    font-size: medium;
+    position:relative;
+    top:2px;
+}
+.request-header{
+    background-color:rgb(48, 45, 45);
+    color: white;
+    width:200px;
+    height:50px;
+    font-size: large;
+}
+.user-icon{
+    height:20px;
+    width:20px;
+}
+.checkmark{
+    height:25px;
+    width:30px;
+    background-color: blanchedalmond;
+
+}
+.xmark{
+    height: 20px;
+    width:25px;
+}
+.connection-container{
+    background-color: blanchedalmond;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    width: 200px;
+    height:300px;
+}
+.connection-span{
+    background-color: gray;
+    border: 3px solid gray;
+    border-radius: 10px;
+    font-size: medium;
+    position: relative;
+    margin: 10px;
+    top:3px;
+}
+.connection-header{
+    background-color:rgb(48, 45, 45);
+    color: white;
+    width:200px;
+    height:50px;
+    font-size: large;
+}
+.anchor{
+    border: 2px solid gray;
+    height:20px;
+    font-size: large;
+}
