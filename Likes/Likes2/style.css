@@ -1,0 +1,105 @@
+h1{
+    background-color: black;
+    color: white;
+    text-align: left;
+}
+h2{
+    text-align: center;
+}
+.container{
+    height: 900px;
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+.box1{
+    text-align: center;
+    width: 150px;
+    height:250px;
+    border: 3px solid black;
+    padding-top: 20px;
+}
+.name{
+    font-size: x-large;
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 400px;
+    height: 200px;
+    border: 3px solid black;
+    margin-bottom: 20px;
+}
+.userIcon{
+    width: 60px;
+    height: 60px;
+}
+a{
+    display:block;
+}
+
+.description{
+    flex: 0 0 100%;
+    font-size: larger;
+    margin-left: 10px;
+}
+
+#likeCounter1{
+    font-size: larger;
+    height: 60px;
+    width: 60px;
+    padding:10px;
+}
+#likeButton1{
+    font-size: large;
+    height: 30px;
+    width: 60px;
+    margin-top:20px;
+    background-color: yellow;
+    box-shadow: 4px 2px black;
+}
+.user1{
+    font-size: x-large;
+    height: 60px;
+    width: 70px;
+}
+#likeCounter2{
+    font-size: larger;
+    height: 60px;
+    width: 60px;
+    padding:10px;
+}
+#likeButton2{
+    font-size: large;
+    height: 30px;
+    width: 60px;
+    margin-top:20px;
+    background-color: yellow;
+    box-shadow: 4px 2px black;
+}
+.user2{
+    font-size: x-large;
+    height: 60px;
+    width: 70px;
+}
+#likeCounter3{
+    font-size: larger;
+    height: 60px;
+    width: 60px;
+    padding:10px;
+}
+#likeButton3{
+    font-size: large;
+    height: 30px;
+    width: 60px;
+    margin-top:20px;
+    background-color: yellow;
+    box-shadow: 4px 2px black;
+}
+.user3{
+    font-size: x-large;
+    height: 60px;
+    width: 70px;
+}
